@@ -91,7 +91,6 @@ section{
 }
 .profile-pic{
     font-size: 30px;
-    height: 265px;
     flex-wrap: wrap;
     h2{
         background-color: black;
